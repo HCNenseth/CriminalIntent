@@ -1,0 +1,16 @@
+package com.example.hanschristian.criminalintent;
+
+import android.os.Bundle;
+import android.support.v4.app.FragmentActivity;
+
+/**
+ * Created by albion on 08.09.15.
+ */
+public class CrimePagerActivity extends FragmentActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_crime_pager);
+    }
+}
