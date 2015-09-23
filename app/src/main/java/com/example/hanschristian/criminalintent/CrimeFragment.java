@@ -15,7 +15,6 @@ import android.widget.EditText;
 
 import java.util.UUID;
 
-
 public class CrimeFragment extends Fragment {
 
     private static final String ARG_CRIME_ID = "crime_id";
